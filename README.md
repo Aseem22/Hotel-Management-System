@@ -27,7 +27,7 @@
 
 </div>
 
-<h2 id="headingAnchor">Preview of <a href="https://meshery.io">Meshery.io</a> Website</h2>
+<h2 >Preview of <a href="https://meshery.io">Meshery.io</a> Website</h2>
 
 ![Meshery.io website screenshot](assets/images/mesheryio_screenshot.png)
 _Visit [Meshery.io](https://meshery.io/) to learn more!_
@@ -143,4 +143,4 @@ Before contributing, please review the [Contribution Flow](https://github.com/me
 
 This repository and site are available as open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
 
-[🔼 Back to top](#headingAnchor)
+[🔼 Back to top](#-mesheryio)
